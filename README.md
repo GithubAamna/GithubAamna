@@ -1,6 +1,8 @@
 ## Hello, I'm Aamna!👋
 
-Welcome to my GitHub profile! I am an euthiastic and motivated Data Analyst with a passion for transforming complex data into actionable insights. I believe in the transformative power of data analytics in shaping the future of businesses and making data-driven decisions.
+Welcome to my GitHub profile! 
+
+I am an euthiastic and motivated Data Analyst with a passion for transforming complex data into actionable insights. I believe in the transformative power of data analytics in shaping the future of businesses and making data-driven decisions.
 <!--
 **GithubAamna/GithubAamna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
