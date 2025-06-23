@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I am a dedicated and motivated electrical engineer with a passion for electronics desugn, prototyping and testing.I believe that Digital IC design is my true calling, and I am particularly interested in RTL design for FPGA's and ASICs. I am also passionate to learn more about the IC design flow and physical design. 
+I am passionate electrical engineer with hands-on experience in embedded systems, RISC-V architecture, and PCB design. Strong background in hardware prototyping, digital system design, and FPGA-based development. Known for delivering high-impact academic and industry-aligned projects with attention to detail, collaboration, and continuous learning. 
 <!--
 **GithubAamna/GithubAamna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
