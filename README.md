@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 * Relevant Courses: Digital Logic Design, Digital Systems Design, Embedded System Design
 
 ## :computer: Let's Connect!
-I’m always excited to connect with fellow tech enthusiasts, professionals, and anyone interested in the world of digital IC design. Feel free to explore my repositories and projects posted on my GitHub Profile. Do reach out to discuss different strategies, share insights, or explore potential collaborations. You can reach me via [email](http://aamnaarshad4ft@gmail.com) or connect with me on [linkedin](https://pk.linkedin.com/in/aamna-arshad-mansoor).
+I’m always excited to connect with fellow tech enthusiasts, professionals, and anyone interested in the world of electronic circuit design. Feel free to explore my repositories and projects posted on my GitHub Profile. Do reach out to discuss different strategies, share insights, or explore potential collaborations. You can reach me via [email](http://aamnaarshad4ft@gmail.com) or connect with me on [linkedin](https://pk.linkedin.com/in/aamna-arshad-mansoor).
 
 Looking forward to connecting with you!
