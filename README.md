@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 * PCB Design, KiCAD, SnapEDA
 * Circuit Designing: Proteus, Pspice, AutoCAD, Simulink, LabView, LogixPro
 * Hardware Designing: Breadboard Prototyping, Soldering
-* Data Visualization: Tableau, Power BI, Mathlibplot
-* Data Manipulation: Pandas, SQL
+* Data Manipulation: SQL
 * Data Tools: Spreadsheet, Excel, Jupyter Notebook
 * IT Skills: Microsoft Office ( Word, Excel, Powerpoint)
 
